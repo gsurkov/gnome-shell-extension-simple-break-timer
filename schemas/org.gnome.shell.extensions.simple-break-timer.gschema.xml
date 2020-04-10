@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.simple-break-timer" path="/org/gnome/shell/extensions/simple-break-timer/">
+        
+        <key name="work-duration" type="u">
+            <default>40</default>
+        </key>
+
+        <key name="break-duration" type="u">
+            <default>2</default>
+        </key>
+
+        <key name="enable-autostart" type="b">
+            <default>true</default>
+        </key>
+
+        <key name="enable-notifications" type="b">
+            <default>true</default>
+        </key>
+
+    </schema>
+</schemalist>

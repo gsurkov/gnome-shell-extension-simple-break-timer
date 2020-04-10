@@ -1,0 +1,8 @@
+{
+    "uuid" : "simple-break-timer@gsurkov.github.io",
+    "name" : "Simple Break Timer",
+    "description" : "A simple break timer for gnome-shell",
+    "version" : 1,
+    "shell-version" : [ "3.34", "3.36" ],
+    "url" : "https://github.com/gsurkov/gnome-shell-extension-simple-break-timer"
+}
